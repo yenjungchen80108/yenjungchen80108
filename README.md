@@ -57,8 +57,8 @@ A Front-end developer with hands-on skills in developing enterprise software app
 ### 📊 Stats
 <table>
   <tr>
-    <td valign="top"><img align=center src="https://github-readme-stats.vercel.app/api?username=yenjungchen80108&show_icons=true&theme=gruvbox"/></td>
-    <td valign="top"><img align=center height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenjungchen80108&layout=compact&show_icons=true&theme=gruvbox"/></td>
+    <td valign="top"><img align=center src="https://github-readme-stats.vercel.app/api?username=yenjungchen80108&show_icons=true&theme=outrun"/></td>
+    <td valign="top"><img align=center height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenjungchen80108&layout=compact&show_icons=true&theme=jolly"/></td>
   </tr>
 </table>
 
