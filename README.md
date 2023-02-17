@@ -2,7 +2,7 @@
 
 **`Frontend Developer`**
 
-A Front-end developer with hands-on skills in developing enterprise software application in a wide range of tools and technologies. Living and working in Taipei, Taiwan. Passionate about learning and development with a desire to apply skills on a development team, eager to solve complex problem and find ways to increase user efficiency.
+A Front-end developer with hands-on skills in developing enterprise software application in a wide range of tools and technologies. Living and working in Taipei, Taiwan. Passionate about learning and development with a desire to apply skills on a development team.
 
    <p align="left">
       <a href="https://github.com/yenjungchen80108?tab=followers">
@@ -57,8 +57,8 @@ A Front-end developer with hands-on skills in developing enterprise software app
 ### 📊 Stats
 <table>
   <tr>
-    <td valign="top"><img align=center src="https://github-readme-stats.vercel.app/api?username=yenjungchen80108&show_icons=true&theme=outrun"/></td>
-    <td valign="top"><img align=center height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenjungchen80108&layout=compact&show_icons=true&theme=jolly"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=yenjungchen80108&show_icons=true&theme=outrun"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenjungchen80108&layout=compact&show_icons=true&theme=jolly"/></td>
   </tr>
 </table>
 
