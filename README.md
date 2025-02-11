@@ -25,35 +25,6 @@ A Front-end developer with hands-on skills in developing enterprise software app
 
 #
 
-### :bookmark_tabs: Checkout my latest Medium articles
-
-<table>
-  <tr>
-    <td valign="center">
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emily80108/0">
-        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@emily80108/0" alt="Recent Article 0">
-      </a>
-    </td>
-    <td valign="center">
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emily80108/1">
-        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@emily80108/1" alt="Recent Article 1">
-      </a>
-    </td>
-   </tr>
-   <tr>
-    <td valign="center">
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emily80108/2">
-        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@emily80108/2" alt="Recent Article 2">
-      </a>
-    </td>
-    <td valign="center">
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emily80108/3">
-        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@emily80108/3" alt="Recent Article 3">
-      </a>
-    </td>
-  </tr>
-</table>
-
 ### 📊 Stats
 <table>
   <tr>
